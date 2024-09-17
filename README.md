@@ -1,6 +1,6 @@
 
 
-# Instruções para Configuração e Execução dos Exercícios JavaScript
+# Instruções para Configuração e Execução dos codigos JavaScript
 
 Este repositório contém diversos exercícios JavaScript. Abaixo estão as etapas para configurar seu ambiente local e executar os exercícios.
 
